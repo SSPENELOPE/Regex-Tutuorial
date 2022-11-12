@@ -77,4 +77,5 @@ Flags in a regex are optional search parameters we can add. For example if we ad
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+Tyler Poepping 
+Link to github: https://github.com/SSPENELOPE
