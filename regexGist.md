@@ -24,18 +24,19 @@
  Anchors are used to match a position within your regex string. 
 
  For example the anchors used in our email expression 
- 
--"^" Indicates the start of the regex
--"$" Indicates the end of the regex
+
+- "^" Indicates the start of the regex
+
+- "$" Indicates the end of the regex
 
 ### Quantifiers
  Quantifiers indicate that the preceding token that must be matched a certain amount of times. Quatifiers will match as many possible characters as it can
 
  For example:
 
--"+" Will match 1 or more of the preceding token
+- "+" Will match 1 or more of the preceding token
 
--"{2,6}" Will match the quantity of the previous tokens
+- "{2,6}" Will match the quantity of the previous tokens
 
 ### Grouping Constructs
 
